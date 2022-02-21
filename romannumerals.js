@@ -80,4 +80,4 @@ function convertToRoman(num) {
   return finalRomanNumeralsString;
 }
 
-convertToRoman(2);
+module.exports = convertToRoman;
